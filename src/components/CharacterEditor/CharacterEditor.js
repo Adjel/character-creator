@@ -83,6 +83,8 @@ function App() {
           />
         </div>
       </MaxWidthWrapper>
+
+      <div className={styles.decoration} />
     </main>
   );
 }
